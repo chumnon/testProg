@@ -30,7 +30,7 @@ namespace testProg
 
         private void myButton_Click(object sender, RoutedEventArgs e)
         {
-            myButton.Content = "Clicked";
+            myButton.Content = "pogger";
         }
     }
 }
